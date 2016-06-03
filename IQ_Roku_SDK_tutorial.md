@@ -1,5 +1,7 @@
 James!!!!
 
+Tine made some changes to this file.
+
 This tutorial shows you how to include and work with the IQ library in your Roku channel.
 
 ### Getting the library
