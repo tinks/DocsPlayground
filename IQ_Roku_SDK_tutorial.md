@@ -1,4 +1,4 @@
-James!!!!
+James has made a change!
 
 This tutorial shows you how to include and work with the IQ library in your Roku channel.
 
