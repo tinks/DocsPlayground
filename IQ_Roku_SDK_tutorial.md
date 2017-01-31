@@ -12,7 +12,7 @@ To get the library, [go here](https://github.com/ooyala/iq-sdk-roku).
 
 ### Integrating the library in your project
 
-Integrating the library in your project is simple as copying `IQ.brs` to your source folder, like any other source file in your Roku channel. If you see issues when deploying your channel to a Roku device, make sure you have added the file in your zip build script/Makefile.
+Integrating the library in your project is simple as copying `IQ.brs` to your source folder, like any other source file in your Roku channel. If you see issues when deploying your channel to a Roku device, ensure you have added the file in your zip build script/Makefile.
 
 ### Adding IQ to your channel
 
