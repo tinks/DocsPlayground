@@ -2,6 +2,7 @@ James!
 
 Tine made some changes to this file.
 
+We have also made changes, which ones do you keep?
 
 This tutorial shows you how to include and work with the IQ library in your Roku channel.
 
