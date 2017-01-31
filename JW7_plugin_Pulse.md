@@ -8,6 +8,7 @@ The JW7 Pulse plugin makes it easy to create an integration between Ooyala Pulse
 ## Build
     npm install
     grunt
+    some other file
 
 ## Getting started
 
