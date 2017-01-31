@@ -1,4 +1,4 @@
-The Ooyala Pulse Integration framework for iOS allows you to display ads served from [Ooyala Pulse](http://www.ooyala.com/products/video-advertising) along with your video content in the Ooyala Player for iOS.
+The Ooyala Pulse Integration framework for iOS allows you to display ads served from [Ooyala Pulse](http://www.ooyala.com/products/video-advertising) along with your video content in the Ooyala Player for iOS. This is not the same text as before, which one to choose.
 
 The OOPulseManager class provides the support for displaying Ooyala Pulse ads to your [OOOoyalaPlayer](http://apidocs.ooyala.com/ios_mobilesdk/class_o_o_ooyala_player.html).
 
