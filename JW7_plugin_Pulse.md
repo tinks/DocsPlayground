@@ -1,7 +1,13 @@
 # Ooyala Pulse plugin for JW7
 
+
 Let's add a paragraph here.
+<<<<<<< HEAD
 Let's try that again, but just pushing the changes.
+=======
+We'll also add a paragraph in this version of the repo.
+
+>>>>>>> 962c6d0803e0176af4e6d7311f1e4ebd6f29f31b
 
 # Introduction
 The JW7 Pulse plugin makes it easy to create an integration between Ooyala Pulse for ad serving and your JW7 player. The plugin is built on top of the Ooyala Pulse HTML5 ad player, which is part of [Ooyala's HTML5 Pulse SDK](http://pulse-sdks.ooyala.com/pulse-html5/latest/).
