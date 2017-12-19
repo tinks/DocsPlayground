@@ -14,5 +14,9 @@ An example of an Ooyala VAST request would look like this: `http://vp-validation
 
 The Ooyala Ad Products mobile SDKs use the VAST protocol internally but developers using the SDKs do not need to understand the VAST standard. When the SDKs receive a VAST ticket, they parse and package the ads into native objects for easy use by the developers. Even nested 3rd party VAST ad wrappers are requested and parsed by the SDKs into native objects making the support for 3rd party ads transparent.
 
+## VAST Troubleshooting
+
+This is a placeholder.
+
 **Parent topic:**[Ooyala Pulse FAQ](../../../oadtech/ad_serving/dg/faq_overall.md)
 
