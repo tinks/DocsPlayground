@@ -51,7 +51,7 @@ Body:
 ## Things Every Developer Should Know
 
 1.  **One request at a time**: Only one request at a time towards Ooyala Pulse REST endpoints is allowed for a client.
-2.  **Updates overwrite data**: Update requests replace data with the one sent in this request. If a field is not included, it is cleared in the Ooyala Pulse backend. Best practice is to first retrieve data for an entity, change values in that entity and then send it back in an update.
+2.  **Updates overwrite data**: Update requests replace data with the data sent in this request. If a field is not included, it is cleared in the Ooyala Pulse backend. Best practice is to first retrieve data for an entity, change values in that entity and then send it back in an update.
 
 **HTTP Verbs**
 
@@ -76,4 +76,3 @@ Body:
 
 
 **Parent topic:**[Developer Guides](../../../oadtech/ad_serving/dg/dg_introduction.md)
-
